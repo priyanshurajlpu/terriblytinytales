@@ -13,17 +13,26 @@ COMPONENTS USED--->
 App: The main component that represents the entire application.
 
 PLUGINS USED-->
-file-saver: A plugin that enables saving files from the browser.
-BarChart: A component from the recharts library that renders a bar chart.
-Bar: A component from the recharts library that represents a single bar in the bar chart.
-XAxis: A component from the recharts library that represents the X-axis in the chart.
-YAxis: A component from the recharts library that represents the Y-axis in the chart.
-CartesianGrid: A component from the recharts library that renders a Cartesian grid in the chart.
-Tooltip: A component from the recharts library that displays tooltips on the chart.
-Legend: A component from the recharts library that displays the legend of the chart.
+1.file-saver: A plugin that enables saving files from the browser.
+
+2.BarChart: A component from the recharts library that renders a bar chart.
+
+3.Bar: A component from the recharts library that represents a single bar in the bar chart.
+
+4.XAxis: A component from the recharts library that represents the X-axis in the chart.
+
+5.YAxis: A component from the recharts library that represents the Y-axis in the chart.
+
+6.CartesianGrid: A component from the recharts library that renders a Cartesian grid in the chart.
+
+7.Tooltip: A component from the recharts library that displays tooltips on the chart.
+
+8.Legend: A component from the recharts library that displays the legend of the chart.
 
 
 LIBRARIES USED-->
-React: A JavaScript library for building user interfaces.
-file-saver: A library used for saving files from the browser.
-recharts: A charting library for React that provides various chart components.
+1.React: A JavaScript library for building user interfaces.
+
+2.file-saver: A library used for saving files from the browser.
+
+3.recharts: A charting library for React that provides various chart components.
